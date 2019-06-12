@@ -1,2 +1,5 @@
 Erik Hanson, SFU, Research Assistant
 Contributed citation formatting, curreny calculation, and data field clean up.
+
+Hannah Holtzclaw, SFU, Research Assistant
+Contributed to templates, normalized titles in templates 
