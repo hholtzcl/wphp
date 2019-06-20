@@ -1,8 +1,11 @@
 {% extends 'base.html.twig' %}
 
-{% block pageheader %} 
-    <h1>Genre</h1>
-{% endblock %} 
+{% block title %} View Genre {% endblock %}
+
+
+{% block pageheader %}
+    <h1> Genre</h1>
+{% endblock %}
 
 {% block body %}
 
@@ -35,6 +38,6 @@
     </table>
 
     {% embed 'AppBundle:title:partials/page.html.twig' with {'titles': titles} %}
-    {% endembed %}                
+    {% endembed %}
 
 {% endblock %}
